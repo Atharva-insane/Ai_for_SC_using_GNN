@@ -169,6 +169,7 @@ cython_debug/
 # Project Specific
 # -----------------
 # Data directories (do not commit large datasets)
+dataset/
 data/raw/
 data/processed/
 data/interim/
