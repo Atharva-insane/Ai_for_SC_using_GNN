@@ -1,0 +1,11 @@
+use entmax function instead of softmax function 
+{
+    right now softmax function is being used in some process of calculation of bias of neighbours
+
+}
+
+use GEGLU function instead of GELU ( GEGLU has been recently used in many projects like Facebook's LLama , Google search etc ) 
+{
+right now it is used in making the initial prediction before the reconcillation 
+
+}
